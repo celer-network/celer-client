@@ -2,10 +2,9 @@
 
 ## Overview
 
-This repository provides prebuilt client binaries running gRPC API servers that
-enable applications to interact with Celer Network. In particular, the gRPC
-messages are transported over WebSocket to allow bidirectional streaming from
-JavaScript applications in NodeJS and browsers.
+This repository provides a prebuilt client binary running a gRPC API server that
+enables JavaScript applications to interact with Celer Network in both NodeJS
+and browser environments.
 
 ## Usage
 
@@ -13,7 +12,7 @@ JavaScript applications in NodeJS and browsers.
 ./celer_client_mac -keystore <path-to-keystore-json> -config <path-to-profile-json> -port <port-number>
 ```
 
-Enter the password for the keystore when promted.
+Enter the password for the keystore when prompted.
 
 By default, the web API server will be started at `http://localhost:29979`.
 
