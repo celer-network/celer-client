@@ -6,7 +6,7 @@
     "DepositPoolAddr": "b255c4f6a8e2ea441f3eefd8370a42f998e00818",
     "HTLRegistryAddr": "371ec109574ba8208a9d216e07d3a1f04caa054a",
     "SvrRPC": "osp1-hack-ropsten.celer.app:10000",
-    "StoreDir": "",
+    "StoreDir": "celer-hackathon-ropsten",
     "WebPort": "",
     "WsOrigin": "http://celer.network",
     "NoBlockDelay": true,
