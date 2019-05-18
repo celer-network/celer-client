@@ -9,7 +9,7 @@ and browser environments.
 ## Usage
 
 ```
-./celer_client_mac -keystore <path-to-keystore-json> -config <path-to-profile-json> -port <port-number>
+./celer_client_mac -keystore <path-to-keystore-json> -config <path-to-profile-json> -port <port-number> -allowedorigins <allowed-origins>
 ```
 
 Enter the password for the keystore when prompted. Note that a local folder
