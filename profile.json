@@ -1,5 +1,5 @@
 {
-    "ethInstance": "wss://ropsten.infura.io/ws",
+    "ethInstance": "wss://ropsten.infura.io/ws/v3/7b9c142998c444ebb5e30f3608c048b4",
     "svrEthAddr": "f805979adde8d63d08490c7c965ee5c1df0aaae2",
     "chanAddr": "125d354e99e90fe0764992d1ae0c6146acf50795",
     "resolverAddr": "f44339a31f7b80db56151b75f26151c17f459a2a",
@@ -8,7 +8,7 @@
     "svrRpc": "osp1-hack-ropsten.celer.app:10000",
     "storeDir": "celer-hackathon-ropsten",
     "webPort": "",
-    "wsOrigin": "http://celer.network",
+    "wsOrigin": "",
     "noBlockDelay": true,
     "tokens": [
         {
